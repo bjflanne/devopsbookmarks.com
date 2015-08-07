@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "NATS",
+    "name": "NATS",
+    "description": "NATS is an open-source, high-performance, lightweight cloud native messaging system. Unlike traditional enterprise messaging systems, NATS has an always-on dial tone that does whatever it takes to remain available. This forms a great base for building modern, reliable, and scalable cloud and distributed systems.",
+    "tags": [
+      "linux",
+      "open-source",
+      "virt",
+      "cloud-paas",
+      "cloud",
+      "orchestration",
+      "service-discovery",
+      "provisioning",
+      "go",
+      "haskell",
+      "ruby",
+      "java",
+      "nodejs",
+      "php",
+      "python",
+      "scala",
+      "spring"
+    ],
+    "url": "http://www.nats.io"
+  }
+]
